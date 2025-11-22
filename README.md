@@ -4,7 +4,7 @@ Topology-Aware Contrastive Learning for Attributed Graph Clustering
 ### Training
 For example, an example run on the CORA dataset is:
 ```
-python3 train.py -dataset=cora
+python3 train.py --dataset=cora
 ```
 ## Results
 The visualization clustering comparisons on the CORA, and AMAP of our proposed approach with
